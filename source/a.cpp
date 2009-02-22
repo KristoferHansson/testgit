@@ -1,6 +1,6 @@
 #include "a.h"
 
-//This is added in newbranch
+//This is added in newbranch, and this a second time
 
 void main()
 {
